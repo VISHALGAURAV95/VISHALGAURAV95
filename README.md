@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm VISHAL GAURAV</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI4MTQzODAsIm5iZiI6MTcwMjgxNDA4MCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE3VDExNTQ0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5YWY0NmNiOTQwYjU4ZmZmOWZkZDNmNzAwMzQ1ODg4ZmNkZDUyMDJhZWM1MTg5ZDIyY2NlYzBmOWNkY2NjMzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6xJtauCvhwqk223ixHlEP6iIPizJNsYWtN4hrGO8BM8">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2x5NDJpemt1ODlpZzNqb25wbjdlbDMxMW9mem81NXVtdjR0MGZ0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalgaurav95&label=Profile%20views&color=0e75b6&style=flat" alt="vishalgaurav95" /> </p>
 
