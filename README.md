@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalgaurav95" alt="vishalgaurav95" /></a> </p>
 
-- 💬 Ask me about **M.E.R.N**
+
 
 - 📫 How to reach me **gvvishal95@gmail.com**
 
-- ⚡ Fun fact **I love competative**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
